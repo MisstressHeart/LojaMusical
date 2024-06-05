@@ -1,0 +1,32 @@
+.header {
+
+    background-color: blueviolet;
+}
+
+.footer {
+
+    background-color: blueviolet;
+}
+
+.footer-container {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+body {
+    background-image: url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-home {
+    background-color: darkgrey;
+}
+
+.contact-span {
+    color: wh;
+}

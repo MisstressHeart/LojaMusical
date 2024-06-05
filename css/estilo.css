@@ -1,0 +1,21 @@
+.login {
+    width: 100%;
+    height: 100vh;
+    /*viewport height*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #5a2cda, #FEDCD2);
+}
+
+.head {
+    width: 100%;
+    height: 100vh;
+    /*viewport height*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #5a2cda, #FEDCD2);
+}
